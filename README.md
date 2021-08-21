@@ -33,6 +33,7 @@
 Если доступа к RM_template не будет, то прекратит свою работу.
 
 ****notify_source****
+
 Небольшой менеджер ресурсов, который делает notify по таймеру. 
 
     ./notify_source /dev/notify_source1
